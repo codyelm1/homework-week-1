@@ -1,23 +1,19 @@
-Had to change a few things around and make it more accessible. 
+Horiseon Business Marketing 
+
+Search Engine Optimization
+The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
 
 
-broke down multiple classed in the css page and connext most of the classes and elements to be 
-
-one and save a ton of space. 
-
-
-make sure everything is navigational and easy to access. 
+Online Reputation Management
+The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your 
 
 
-add to few finishing touches to make everything look better.
+business.Social Media Marketing
+Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
+
+The perfect website for organizing and making sure you are ready for the next big move. 
+
+https://github.com/codyelm1/homework-week-1/blob/main/Screen%20Shot%202021-09-17%20at%204.29.47%20PM.png
 
 
-add different index.html
-
-
-add new .css
-
-
-make a new read.me for homework
-
-# homework-week-1
+git@github.com:codyelm1/homework-week-1.git
