@@ -16,4 +16,4 @@ The perfect website for organizing and making sure you are ready for the next bi
 https://github.com/codyelm1/homework-week-1/blob/main/Screen%20Shot%202021-09-17%20at%204.29.47%20PM.png
 
 
-git@github.com:codyelm1/homework-week-1.git
+https://codyelm1.github.io/homework-week-1/
